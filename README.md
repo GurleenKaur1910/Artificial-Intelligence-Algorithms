@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Algorithms
+# AI CODES
